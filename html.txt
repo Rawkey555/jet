@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../node_modules/bootstrap-icons/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.css">
+    <style>
+        
+        h1{
+           font-weight: 500;
+            font-family:cursive;
+            word-spacing:2ric;
+            
+        
+        }
+        header{
+            display: flex;
+            height: 60px;
+            border:solid black;
+            background-color: black;
+            color: aliceblue;
+            
+            
+            
+        }
+        #E{
+            margin-top: 7px;
+        }
+        
+      #D{
+        size:  30px;
+        
+      }
+        #F{
+          margin-top:  12px;
+        }
+        #H{
+            margin-top: 23px;
+        }
+        #J{
+            width: fit-content;
+            height: 34px; ;
+        }
+        a{
+            text-decoration: none;
+            color: aliceblue;
+        }
+        dl{
+            overflow:hidden ;
+            background-color: black;
+            color: antiquewhite;
+            width: 100px;
+        }
+        #A{
+            margin-bottom: 10px;
+            padding: 5px;
+        }
+        div{
+            border:solid black;
+            overflow: hidden;
+            background-color: black;
+            color: aliceblue;
+            
+        }
+        #a{
+            margin-left: 100px;
+            height: 110px;
+        }
+      div button{
+            
+            margin-bottom: 30px;
+             
+        }
+        #S{
+            margin-left: 980px;
+            margin-bottom: 20px;
+            
+        }
+        #T{
+            margin-left: 950px;
+            
+        }
+        #U{
+            
+            
+        }
+        
+            
+        
+    </style>
+</head>
+<body>
+    <header>
+        <font size="20" style="color: orangered;">O</font><h2>range.in</h2>&nbsp;&nbsp;&nbsp;
+    
+      <div  class="input-group">
+      <input type="text" size="40px" style="height: 30px; " placeholder="Search Orange.." id="F">
+      <button id="J">
+      <span  id="H" class="bi bi-search" >
+      </button>
+      </div>
+        <p > 
+           Select Language
+           <select>
+            <option>తెలుగు</option>
+            <option>English</option>
+            <option>हिंदी</option>
+           </select>
+        </p>&nbsp;&nbsp;&nbsp;&nbsp;
+        <p id="B"> Accounts & Lists
+            <select>
+                <option>None</option>
+            </select> </p>&nbsp;&nbsp;&nbsp;&nbsp;
+        <p id="C">Returns & Orders
+            <select>
+                <option>None</option>
+            </select></p>
+    </header>
+    <div id="U">
+        <span   class="bi bi-list" style="color: aliceblue;">All</span>
+        <span class="bi bi-geo-alt-fill" id="T">India</span>
+        <span class="bi bi-people" id="S" ><a href="pro2form1.html"> Sign In</a></span>
+    </div>
+       
+    <table cellspacing="30px" cellpadding="20px" width="900px" height="400px" border="5">
+        <tr>
+            <td bgcolor=" #454545"	>
+                <table borderradius="1cm">
+                    <tr style="color: white;">
+                        <td colspan="2" ><h2>  60% off on Accessories</h2></td>
+                        
+                    </tr>
+                    <tr style="color: aliceblue;">
+                        <td>
+                            <img src="hairoil1.png" width="130px" height="100px" >
+                            <p></p>
+                        </td>
+                        <td>
+                        <img src="hairoil2.jpg" width="130px" height="100px">
+                        <p></p>
+                        </td>
+                    </tr>
+                    <tr style="color: aliceblue;">
+                        <td>
+                            <img src="lifeboy.jpg" width="130px" height="100px" >
+                            <p></p>
+                        </td>
+                        <td>
+                            <img src="surfexce.jpg" width="130px" height="100px" >
+                            <p></p>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+            <td bgcolor="#454545">
+                <table> 
+                <tr style="color: aliceblue;">
+                    <td colspan="2"><h2> 50% off on Toys </h2></td>
+                </tr>
+                <tr>
+                    <td>
+                        <img src="ironmantoy.jpg" width="130px" height="100px">
+                        <p></p>
+                    </td>
+                    <td>
+                        <img src="supermantoyy.jpg" width="130px" height="100px">
+                        <p> </p>
+                    </td>
+                </tr>
+                    <tr>
+                        <td>
+                            <img src="bike toy.jpg" width="130px" height="100px">
+                            <p> </p>
+                        </td>
+                        <td>
+                            <img src="car toy.jpg" width="130px" height="100px">
+                            <p></p>
+                        </td>
+                    </tr>
+                </table>
+
+                
+            </td>
+            <td bgcolor="#454545">
+                <table>
+                    <tr style="color: black;">
+                        <td colspan="2"><h2 style="color: aliceblue;"> 40% off on Electronics</h2></td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <img src="trimmer.webp" width="130px" height="100px">
+                            <p></p>
+                        </td>
+                        <td>
+                            <img src="mobile1.jpeg" width="130px" height="100px">
+                            <p></p>
+                        </td>
+                    </tr>
+                        <tr>
+                            <td>
+                                <img src="refridgerator.jpg" width="130px" height="100px">
+                                <p></p>
+                            </td>
+                            <td>
+                                <img src="watch2.jpg" width="130px" height="100px">
+                                <p></p>
+                            </td>
+                        </tr>
+                    
+                </table>
+            </td>
+        </tr>
+    </table>
+    
+    <table cellspacing="30px" cellpadding="20px" width="900px" height="400px" border="5">
+        <tr>
+            <td bgcolor="lightgreen"	>
+                <table>
+                    <tr style="color:black;">
+                        <td colspan="2" ><h2>Mens and Womens Wears </h2></td>
+                        
+                    </tr>
+                    <tr style="color: aliceblue;">
+                        <td>
+                            <img src="red tshirt.jpg"  width="130px" height="100px">
+                            <p></p>
+                        </td>
+                        <td>
+                        <img src="shirt 1.jpg" width="130px" height="100px">
+                        <p></p>
+                        </td>
+                    </tr>
+                    <tr style="color: aliceblue;">
+                        <td>
+                            <img src="hoddie.jpg" width="130px" height="100px">
+                            <p></p>
+                        </td>
+                        <td>
+                            <img src="ladies tshirt.jpg" width="130px" height="100px">
+                            <p></p>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+            <td bgcolor=" lightblue">
+                <table> 
+                <tr style="color: black;">
+                    <td colspan="2"><h2> Special Offers On Stationary </h2></td>
+                </tr>
+                <tr>
+                    <td>
+                        <img src="pencils.jpg" width="130px" height="100px">
+                        <p></p>
+                    </td>
+                    <td>
+                        <img src="pens.png" width="130px" height="100px">
+                        <p> </p>
+                    </td>
+                </tr>
+                    <tr>
+                        <td>
+                            <img src="pads.webp" width="130px" height="100px">
+                            <p> </p>
+                        </td>
+                        <td>
+                            <img src="notebooks.png" width="130px" height="100px">
+                            <p></p>
+                        </td>
+                    </tr>
+                </table>
+
+                
+            </td>
+            <td bgcolor="gray">
+                <table>
+                    <tr style="color: aliceblue;">
+                        <td colspan="2"><h2> Mens and Womens Footwear </h2></td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <img src="shoe2.jpeg" width="130px" height="100px">
+                            <p></p>
+                        </td>
+                        <td>
+                            <img src="shoe3.jpeg" width="130px" height="100px">
+                            <p></p>
+                        </td>
+                    </tr>
+                        <tr>
+                            <td>
+                                <img src="ladiescheppals1.jpeg" width="130px" height="100px">
+                                <p></p>
+                            </td>
+                            <td>
+                                <img src="menslippers1.jpeg" width="130px" height="100px">
+                                <p></p>
+                            </td>
+                        </tr>
+                    
+                </table>
+            </td>
+        </tr>
+    </table>
+    
+
+
+    
+</body>
+</html>
+        
+
+    
